@@ -4,7 +4,8 @@ AI marketing assistant for Algerian travel agencies. Generates social media post
 
 ## Live Demo
 
-- **App:** [launchtrip.onrender.com](https://launchtrip.onrender.com) 
+
+- **App:** [https://launchtrip.onrender.com](https://launchtrip.onrender.com)
 
 ## What It Does
 
