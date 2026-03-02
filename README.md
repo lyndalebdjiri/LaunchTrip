@@ -4,6 +4,7 @@ AI marketing assistant for Algerian travel agencies. Generates social media post
 
 
 ## Live Demo
+
 - **App:** [launch-trip.vercel.app](https://launch-trip.vercel.app/)
 
 ## What It Does
