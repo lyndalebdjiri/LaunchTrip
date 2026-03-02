@@ -2,10 +2,9 @@
 
 AI marketing assistant for Algerian travel agencies. Generates social media posts, promotional emails, and Meta Ads copy in minutes.
 
+
 ## Live Demo
-
-
-- **App:** [https://launchtrip.onrender.com](https://launchtrip.onrender.com)
+- **App:** [launch-trip.vercel.app](https://launch-trip.vercel.app/)
 
 ## What It Does
 
